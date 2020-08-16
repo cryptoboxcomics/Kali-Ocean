@@ -4,10 +4,10 @@ Gnome Desktop shell theme intended to match GTK, Visual Studio Code, terminal th
 
 Still in active development, but posted to keep track of improvements.
 
-Calendar View
+### Calendar View (with Juno-ocean GTK theme)
 ![](docs/calendar.png)
 
-Shutdown View
+### Shutdown View
 ![](docs/shutdown.png)
 
 ## Installation
