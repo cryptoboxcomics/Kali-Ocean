@@ -1,4 +1,4 @@
-# Kali-Dark Gnome Shell Theme
+# Kali-Ocean Gnome Shell Theme
 
 Gnome Desktop shell theme intended to match GTK, Visual Studio Code, terminal that also use the ocean theme. For people who have a preference for a shell theme using ocean colors, but don't like the way Kali's warmer hued grays clash.
 
