@@ -1340,9 +1340,9 @@ StScrollBar {
 
 /* App Grid */
 .icon-grid {
-  -shell-grid-horizontal-item-size: 144px;
+  -shell-grid-horizontal-item-size: 200px;
   -shell-grid-vertical-item-size: 144px;
-  spacing: 36px; }
+  spacing: 12px; }
   .icon-grid .overview-icon {
     icon-size: 96px; }
 
