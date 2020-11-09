@@ -271,7 +271,7 @@ StScrollBar {
 
 .popup-menu-content {
   padding: 16px 0;
-  background-color: #12131b; }
+  background-color: #272727; }
 
 .popup-menu-item {
   spacing: 6px;
@@ -2230,8 +2230,6 @@ StScrollBar {
       width: 1.5em;
       height: 1.5em;
       color: transparent; }
-    #panel #panelActivities.panel-button:overview StLabel {
-      background-image: url("assets/view-grid-symbolic-checked.svg"); }
 
 /* Date/Time Menu */
 #calendarArea {
